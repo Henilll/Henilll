@@ -2,7 +2,7 @@
 
 # 👋 Henil Bhavsar
 
-### AI/ML Engineer | Production ML Systems Architect | GenAI Solutions Developer
+### AI/ML Engineer | Production ML Systems | GenAI Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Production-Grade+AI+Systems;End-to-End+ML+Pipeline+Architecture;LLM+%26+RAG+Implementation+Specialist;Transforming+Research+into+Revenue)](https://git.io/typing-svg)
 
@@ -44,7 +44,7 @@ class EngineerProfile:
 
 **🎓 Computer Engineering Student (2022-2026) | 💼 6 Months Production Experience | 🏆 96%+ Model Accuracy**
 
-I don't just build models—I architect **revenue-generating AI systems** that scale. From ideation to deployment, I deliver production-ready solutions that drive business outcomes.
+I specialize in taking ML and GenAI ideas from prototype → scalable APIs → real users. I don't just build models—I architect production-ready AI systems that deliver measurable business outcomes.
 
 ---
 
@@ -58,7 +58,7 @@ I don't just build models—I architect **revenue-generating AI systems** that s
 *Building Enterprise-Grade Data Systems*
 
 **Key Achievements:**
-- 📊 **Data Pipeline Architecture**: Engineered automated acquisition systems processing **100K+ records/day**
+- 📊 **Data Pipeline Architecture**: Engineered automated acquisition systems processing **10K+ records/day**
 - ⚡ **Performance Optimization**: Reduced processing time by **40%** through algorithmic improvements
 - 🎯 **Data Quality**: Achieved **99% analytics-ready** data through robust validation frameworks
 - 💡 **Business Intelligence**: Enabled **30% faster decision-making** through real-time dashboards
@@ -127,10 +127,10 @@ System Reliability:    → 99.5% uptime
 <td width="33%">
 
 #### 🧠 **Generative AI**
-- LLM Integration & Fine-tuning
+- LLM Integration (GPT-4, Claude)
 - RAG System Architecture
-- Prompt Engineering
-- Vector Databases (Pinecone, Weaviate)
+- Prompt Engineering & Optimization
+- Vector Search (FAISS, Chroma)
 - Semantic Search Implementation
 - AI Agent Development
 
@@ -161,61 +161,61 @@ System Reliability:    → 99.5% uptime
 <td width="60%">
 
 **The Challenge**  
-Data analysts spend 60-70% of their time on repetitive tasks: writing SQL queries, generating visualizations, and extracting insights from massive datasets. This bottleneck costs enterprises millions in productivity losses.
+Data analysts spend significant time on repetitive tasks—writing queries, generating visualizations, and extracting insights. This creates bottlenecks in data-driven decision-making.
 
-**The Solution: AI-First Analytics**  
-Built a production-grade conversational AI platform that transforms natural language into actionable data insights in seconds, not hours.
+**The Solution**  
+An AI-powered analytics platform that converts natural language into insights, KPIs, and summaries over structured CSV data using LLMs and RAG pipelines.
 
 **🎯 Technical Architecture:**
-- **LLM Integration**: Fine-tuned GPT-4 with custom prompts for data analysis
-- **RAG Pipeline**: Semantic search over structured data using vector embeddings
-- **FastAPI Backend**: High-performance async endpoints handling 1000+ requests/min
+- **LLM Integration**: GPT-4 via structured prompting and few-shot learning
+- **RAG Pipeline**: Semantic search over tabular data using vector embeddings (FAISS)
+- **FastAPI Backend**: High-performance async endpoints with request queuing
 - **Real-time Processing**: WebSocket connections for streaming analysis results
-- **Smart Caching**: Redis-based caching reducing response time by 70%
+- **Smart Caching**: Redis-based response caching for common queries
 
 **💡 Key Features:**
 - Natural language query interface (no SQL knowledge required)
-- Automated KPI extraction and anomaly detection
+- Automated KPI extraction and trend analysis
 - Interactive dashboards with AI-generated insights
 - Export capabilities (PDF, Excel, PowerPoint)
-- Multi-user collaboration with role-based access
+- Multi-user support with session management
 
 </td>
 <td width="40%">
 
-**📊 Business Metrics:**
+**📊 Impact Metrics:**
 
 ```
 Metric              Impact
 ─────────────────────────────
-Analysis Time       ↓ 50%
-Data Accessibility  ↑ 80%
-Query Accuracy      → 94%
-User Adoption       ↑ 65%
-Cost Savings        $50K/year
+Analysis Time       ↓ 50% reduction
+Query Accuracy      → 94% validated
+System Stability    → Reliable under load
+Response Time       < 2s average
 ```
 
 **🔧 Tech Stack:**
 ```yaml
 Backend:    FastAPI, Flask
-AI/ML:      LangChain, OpenAI
+AI/ML:      LangChain, OpenAI API
 Database:   PostgreSQL, Redis
 Frontend:   React, Chart.js
 Deploy:     Docker, AWS EC2
 ```
 
-**🎯 Production Metrics:**
-- 99.5% uptime
-- <2s response time
-- 500+ active users
-- 10K+ queries/month
+**🎯 Technical Highlights:**
+- Designed for 1000+ requests/day
+- Async processing pipeline
+- Error handling & retry logic
+- API rate limiting
+- Request logging & monitoring
 
 </td>
 </tr>
 </table>
 
-**Why This Matters for Business:**  
-Democratizes data analysis across organizations, enabling non-technical teams to extract insights independently. Reduces dependency on data teams by 50%, accelerating decision-making cycles.
+**Why This Matters:**  
+Enables non-technical teams to extract insights independently, reducing dependency on data teams and accelerating decision-making cycles.
 
 ---
 
@@ -227,12 +227,12 @@ Democratizes data analysis across organizations, enabling non-technical teams to
 <td width="60%">
 
 **The Problem**  
-Generic health recommendations fail because they ignore individual patient profiles. 72% of patients don't follow prescribed health plans due to lack of personalization.
+Generic health recommendations fail to account for individual patient differences, leading to poor adherence and suboptimal outcomes.
 
-**The Innovation: Personalized AI Healthcare**  
-Developed an end-to-end ML system that predicts diseases with 96% accuracy and generates personalized health recommendations based on individual patient data.
+**The Solution**  
+An ML-powered system that predicts diseases with 96% accuracy and generates personalized health recommendations based on individual patient profiles.
 
-**🎯 ML Pipeline Architecture:**
+**🎯 ML Pipeline:**
 1. **Data Preprocessing**: Handled missing values, outliers, feature scaling
 2. **Feature Engineering**: Created 50+ derived features from raw health data
 3. **Model Training**: Ensemble of Random Forest, XGBoost, Neural Networks
@@ -241,27 +241,25 @@ Developed an end-to-end ML system that predicts diseases with 96% accuracy and g
 6. **Deployment**: Flask API with real-time prediction endpoints
 
 **💡 Intelligent Recommendation Engine:**
-- **Medication Suggestions**: Based on diagnosis, drug interactions, patient history
-- **Workout Plans**: Personalized exercise routines considering fitness levels
-- **Diet Recommendations**: Nutrition plans aligned with health conditions
+- **Medication Suggestions**: Based on diagnosis and patient history
+- **Workout Plans**: Personalized exercise routines
+- **Diet Recommendations**: Nutrition plans aligned with conditions
 - **Risk Assessment**: Predictive analytics for disease progression
 
 </td>
 <td width="40%">
 
-**📈 Clinical Impact:**
+**📈 Model Performance:**
 
 ```
 Metric                Result
 ──────────────────────────────
 Prediction Accuracy   96%
-False Positives       <4%
+False Positives       4%
 Patient Adherence     ↑ 35%
-Health Outcomes       ↑ 28%
-Cost per Patient      ↓ $1,200
 ```
 
-**🧪 Model Performance:**
+**🧪 Technical Metrics:**
 ```
 Metric          Score
 ─────────────────────
@@ -282,8 +280,8 @@ ROC-AUC:        0.97
 </tr>
 </table>
 
-**Business Value:**  
-Healthcare providers can scale personalized care to thousands of patients simultaneously, improving outcomes while reducing costs. The system pays for itself within 3 months through improved patient retention and reduced readmissions.
+**Technical Value:**  
+Demonstrates end-to-end ML pipeline development—from data preprocessing to model deployment—with real-world healthcare applications and measurable accuracy improvements.
 
 ---
 
@@ -349,8 +347,8 @@ LJ University, Ahmedabad
 <td width="25%" align="center">
 
 ### 🚀 **Fast Execution**
-Research → Production  
-in < 2 weeks
+Prototype → Production  
+in focused sprints
 
 Built 2 production systems  
 in 6 months
@@ -358,12 +356,12 @@ in 6 months
 </td>
 <td width="25%" align="center">
 
-### 📈 **Business Impact**
+### 📈 **Measurable Impact**
 40% efficiency gains  
-99% data accuracy  
+96% model accuracy  
 
-$50K+ annual savings  
-per project
+Designed for scale  
+from day one
 
 </td>
 <td width="25%" align="center">
@@ -372,8 +370,8 @@ per project
 Full-stack ML engineer  
 End-to-end ownership  
 
-From ETL to deployment  
-and monitoring
+From data pipelines  
+to API deployment
 
 </td>
 <td width="25%" align="center">
