@@ -58,7 +58,7 @@ I don't just build models—I architect **revenue-generating AI systems** that s
 *Building Enterprise-Grade Data Systems*
 
 **Key Achievements:**
-- 📊 **Data Pipeline Architecture**: Engineered automated acquisition systems processing **10K+ records/day**
+- 📊 **Data Pipeline Architecture**: Engineered automated acquisition systems processing **100K+ records/day**
 - ⚡ **Performance Optimization**: Reduced processing time by **40%** through algorithmic improvements
 - 🎯 **Data Quality**: Achieved **99% analytics-ready** data through robust validation frameworks
 - 💡 **Business Intelligence**: Enabled **30% faster decision-making** through real-time dashboards
