@@ -1,4 +1,4 @@
-<div align="center"
+<div align="center">
 
 <!-- HERO BANNER — animated SVG wave + name -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0a1628&height=220&section=header&text=Henil%20Bhavsar&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Building%20the%20future%2C%20one%20deployment%20at%20a%20time&descAlignY=60&descSize=17&descColor=8b9fc7" width="100%"/>
